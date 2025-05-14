@@ -1,3 +1,3 @@
 # vshe
 this is my first GIT Repository
-author - Vanshika
+author - Vanshika  gupta
